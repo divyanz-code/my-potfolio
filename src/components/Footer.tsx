@@ -20,7 +20,7 @@ const Footer = () => {
             asChild
           >
             <a 
-              href="https://github.com/divyanshpali" 
+              href="https://github.com/divyanz-code" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center gap-2"
