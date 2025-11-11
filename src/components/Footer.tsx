@@ -37,7 +37,7 @@ const Footer = () => {
             asChild
           >
             <a 
-              href="https://linkedin.com/in/divyanshpali" 
+              href="https://linkedin.com/in/divyansh-pali" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center gap-2"
