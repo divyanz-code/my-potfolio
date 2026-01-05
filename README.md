@@ -3,6 +3,7 @@
 A modern web application built with React, TypeScript, and Tailwind CSS, powered by the Lovable platform.
 
 
+
 ## 🚀 Quick Start
 
 ### Prerequisites
